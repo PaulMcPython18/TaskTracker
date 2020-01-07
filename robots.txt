@@ -1,0 +1,3 @@
+User-agent: Googlebot
+Disallow: /clear
+Disallow: /checked-off
